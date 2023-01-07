@@ -1,8 +1,8 @@
-# Lauretta Test Image Puzzle Solver
+# Test Image Puzzle Solver
 
 Attached is a toy puzzle solver written in Python. It analyzes a collection of images from a single folder. It will then search each image for a collection of colored markers to determine which order the puzzled together image should take. 
 
-Thank you for your time looking at my application
+Thank you for your time looking at my project
 
 ---
 
